@@ -1,22 +1,26 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+A fitness app that lets you set your calorie goals or find out how many calories you burned with a certain workout!
+Supports a wide variety of workouts and has an intuitive layout that puts your calorie burning goals above all else!
 
+## Interaction:
+
+The app allows you to use a slider to choose a calorie burn target, which updates all the exercises below. You can also choose an exercise and fill in an amount of that exercies (reps or minutes) and get the equivalent in calories burned!
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Laith Alqaisi ([laithalq@berkeley.edu](mailto:laithalq@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time Demo - CS160] (https://vimeo.com/154399315)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/scrn1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/scrn2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/scrn3.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+* Hat tip to Android docs for being so thoroughly explained and exampled
+* Google and Stack Overflow <3
