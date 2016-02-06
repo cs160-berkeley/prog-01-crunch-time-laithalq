@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/laith/AndroidStudioProjects/CrunchTimeAttempt1/Application/build/intermediates/exploded-aar/jp.wasabeef/recyclerview-animators/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="/Users/laith/AndroidStudioProjects/CrunchTimeAttempt1/Application/build/intermediates/pre-dexed/debug/classes-404c3afa78c5f3a83f2709ca363415f6d2289721.jar" />
+    </item>
+
+</items>
